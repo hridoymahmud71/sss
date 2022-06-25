@@ -1,0 +1,84 @@
+* {
+  font-family: "Nunito", sans-serif !important;
+  color: #040415 !important;
+}
+
+.font-overclock {
+  font-family: "Overlock", cursive !important;
+}
+
+.fs-36 {
+  font-size: 36px !important;
+}
+
+.fs-28 {
+  font-size: 28px !important;
+}
+
+.fs-24 {
+  font-size: 24px !important;
+}
+
+.fs-20 {
+  font-size: 20px !important;
+}
+
+.fs-18 {
+  font-size: 18px !important;
+}
+
+.fs-16 {
+  font-size: 16px !important;
+}
+
+.lh-46 {
+  line-height: 46px;
+}
+
+.lh-34 {
+  line-height: 34px;
+}
+
+.lh-32 {
+  line-height: 32px;
+}
+
+.lh-24 {
+  line-height: 24px;
+}
+
+.lh-22 {
+  line-height: 22px;
+}
+
+.bg-soft-blue {
+  background-color: rgba(48, 136, 255, 0.16);
+}
+
+.bg-hard-blue {
+  background-color: rgba(45, 91, 255, 1);
+}
+
+.border-radius-7 {
+  border-radius: 7px;
+}
+
+.border-radius-12 {
+  border-radius: 12px;
+}
+
+.height-48 {
+  height: 48px;
+}
+
+.width-135 {
+  width: 135px;
+}
+
+.color-white{
+  color: white !important;
+}
+
+.color-font-light{
+  color: rgba(4, 4, 21, 0.6) !important;
+}
